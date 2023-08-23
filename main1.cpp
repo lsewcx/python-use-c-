@@ -7,7 +7,7 @@ void getmain()
     cout << "21313";
 }
 
-extern "C"
+extern "C" //必须有这个
 {
     void get()
     {
